@@ -1,4 +1,4 @@
 # hello-world
 
-Just another repository
+First time using this website.
 I will try to understand GitHub by the end of this course
